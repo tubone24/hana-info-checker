@@ -2,10 +2,9 @@ name: Check News
 
 on:
   schedule:
-    # 毎日9時、12時、18時、21時（日本時間）に実行
-    # UTC: 0時、3時、9時、12時
+    # 毎日9時（日本時間）に実行
     - cron: '0 0 * * *'
-  workflow_dispatch: # 手動実行も可能
+  workflow_dispatch:
 
 jobs:
   check:

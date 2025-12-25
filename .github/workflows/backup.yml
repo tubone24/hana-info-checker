@@ -1,0 +1,33 @@
+name: Backup Last Published
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  BackupLastPublished:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup git
+        env:
+          GITHUB_TOKEN: ${{ secrets.github_token }}
+        run: |
+          git config --local user.name GitHubActions
+          git config --local user.email "tubo.yyyuuu@gmail.com"
+          git remote set-url origin https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+      - name: touch file
+        run: |
+          DATE=`TZ='Asia/Tokyo' date`
+          echo $DATE > backup.txt
+      - name: Git push, tag, upload assets
+        run: |
+          git checkout main
+          git pull origin main
+          git add -A
+          git commit -am 'GitHub Actions commit' --allow-empty
+          git push origin main
