@@ -36,49 +36,29 @@ async function fetchNews() {
     // ページが完全に読み込まれるまで少し待機
     await page.waitForTimeout(2000);
 
-    // ニュース一覧を取得（実際のHTML構造に合わせて調整が必要）
+    // ニュース一覧を取得
     const newsItems = await page.evaluate(() => {
       const items = [];
-
-      // ニュースアイテムを取得（よくあるパターンを試す）
-      const selectors = [
-        '.news-list li',
-        '.news-item',
-        '.news_list li',
-        'article.news',
-        '.entry-list li',
-        '.post-list li',
-        '#news li',
-        '.information li',
-        'ul.news li',
-        '.news-contents li'
-      ];
-
-      let newsElements = [];
-      for (const selector of selectors) {
-        newsElements = document.querySelectorAll(selector);
-        if (newsElements.length > 0) break;
-      }
-
-      // もし上記セレクターで見つからない場合、一般的なリストアイテムを探す
-      if (newsElements.length === 0) {
-        newsElements = document.querySelectorAll('main li, .main li, #main li, .content li');
-      }
+      const newsElements = document.querySelectorAll('.items-item');
 
       newsElements.forEach((el) => {
         const link = el.querySelector('a');
-        const dateEl = el.querySelector('time, .date, .news-date, span.date, .time');
+        const dateSpan = el.querySelector('.item-date span:first-child');
+        const categorySpan = el.querySelector('.item-date span:last-child');
+        const titleEl = el.querySelector('.item-title p');
 
-        const title = link?.textContent?.trim() || el.textContent?.trim();
         const url = link?.href || '';
-        const date = dateEl?.textContent?.trim() || dateEl?.getAttribute('datetime') || '';
+        const date = dateSpan?.textContent?.trim() || '';
+        const category = categorySpan?.textContent?.trim() || '';
+        const title = titleEl?.textContent?.trim() || '';
 
-        if (title && title.length > 0) {
+        if (title && url) {
           items.push({
-            title: title.substring(0, 200), // タイトルを200文字に制限
+            title,
             url,
             date,
-            id: `${date}-${title.substring(0, 50)}` // ユニークIDとして使用
+            category,
+            id: url // URLをユニークIDとして使用
           });
         }
       });
@@ -108,7 +88,7 @@ async function sendSlackNotification(newItems) {
           type: 'header',
           text: {
             type: 'plain_text',
-            text: '📰 花澤香菜 新着ニュース',
+            text: 'HANA 新着ニュース',
             emoji: true
           }
         },
@@ -124,7 +104,7 @@ async function sendSlackNotification(newItems) {
           elements: [
             {
               type: 'mrkdwn',
-              text: `📅 ${item.date || '日付なし'}`
+              text: `${item.date || '日付なし'} | ${item.category || 'NEWS'}`
             }
           ]
         }

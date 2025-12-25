@@ -1,6 +1,8 @@
 # hana-info-checker
 
-花澤香菜公式サイト (https://hana.b-rave.tokyo/news/) のニュースを定期的にチェックし、新しいニュースがあればSlackに通知するツールです。
+HANA公式サイト (https://hana.b-rave.tokyo/news/) のニュースを定期的にチェックし、新しいニュースがあればSlackに通知するツールです。
+
+HANA: BMSG × CHANMINA GIRLS GROUP AUDITION PROJECT 2024「No No Girls」から誕生した7人組ガールズグループ。
 
 ## 機能
 
