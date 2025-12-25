@@ -1,0 +1,51 @@
+name: Check News
+
+on:
+  schedule:
+    # 毎日9時、12時、18時、21時（日本時間）に実行
+    # UTC: 0時、3時、9時、12時
+    - cron: '0 0,3,9,12 * * *'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run news checker
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: npm run check
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          if git diff --quiet data/news.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/news.json
+          git commit -m "Update news data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push

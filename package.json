@@ -1,0 +1,17 @@
+{
+  "name": "hana-info-checker",
+  "version": "1.0.0",
+  "description": "花澤香菜公式サイトのニュースを定期的にチェックしてSlackに通知",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "check": "node src/index.js",
+    "test": "node src/index.js --dry-run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
