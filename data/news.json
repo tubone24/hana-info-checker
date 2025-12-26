@@ -15,6 +15,13 @@
       "id": "https://hana.b-rave.tokyo/goods/momentbox2026-goods/"
     },
     {
+      "title": "12月26日(金)発売「Hanako 2月号」",
+      "url": "https://hana.b-rave.tokyo/media/magazine/251225/",
+      "date": "2025.12.25",
+      "category": "MAGAZINE",
+      "id": "https://hana.b-rave.tokyo/media/magazine/251225/"
+    },
+    {
       "title": "12月22日(月)発売「JUNON 2月号」",
       "url": "https://hana.b-rave.tokyo/media/magazine/251223-2/",
       "date": "2025.12.23",
@@ -62,14 +69,7 @@
       "date": "2025.12.16",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
-    },
-    {
-      "title": "12月22日(月) TBS系「CDTVライブ！ライブ！クリスマス年間ランキングFes.」出演",
-      "url": "https://hana.b-rave.tokyo/media/tv/251215/",
-      "date": "2025.12.15",
-      "category": "TV",
-      "id": "https://hana.b-rave.tokyo/media/tv/251215/"
     }
   ],
-  "lastChecked": "2025-12-25T04:11:10.451Z"
+  "lastChecked": "2025-12-26T01:16:10.526Z"
 }
