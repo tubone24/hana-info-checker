@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "TOKYO FM「菊池風磨 hoursz」JISOO, MOMOKA, KOHARU, YURI出演",
+      "url": "https://hana.b-rave.tokyo/media/radio/251228-2/",
+      "date": "2025.12.28",
+      "category": "RADIO",
+      "id": "https://hana.b-rave.tokyo/media/radio/251228-2/"
+    },
+    {
       "title": "1月10日(土)TV アニメ「メダリスト」アイススケートリンクイベント in 東京ミッドタウン 登壇",
       "url": "https://hana.b-rave.tokyo/news/251227-2/",
       "date": "2025.12.27",
@@ -62,14 +69,7 @@
       "date": "2025.12.27",
       "category": "RADIO",
       "id": "https://hana.b-rave.tokyo/media/radio/251227/"
-    },
-    {
-      "title": "12月31日(水) TBS系「CDTVライブ！ライブ！ 年越しカウントダウンFes. 2025→2026」出演",
-      "url": "https://hana.b-rave.tokyo/media/tv/251222/",
-      "date": "2025.12.22",
-      "category": "TV",
-      "id": "https://hana.b-rave.tokyo/media/tv/251222/"
     }
   ],
-  "lastChecked": "2025-12-28T01:24:24.041Z"
+  "lastChecked": "2025-12-29T01:21:55.009Z"
 }
