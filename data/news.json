@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "TBS系「第67回輝く！日本レコード大賞」HANA最優秀新人賞受賞",
+      "url": "https://hana.b-rave.tokyo/media/tv/251230/",
+      "date": "2025.12.30",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/251230/"
+    },
+    {
       "title": "TOKYO FM「菊池風磨 hoursz」JISOO, MOMOKA, KOHARU, YURI出演",
       "url": "https://hana.b-rave.tokyo/media/radio/251228-2/",
       "date": "2025.12.28",
@@ -62,14 +69,7 @@
       "date": "2025.12.23",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/251223/"
-    },
-    {
-      "title": "TOKYO FM「菊池風磨 hoursz」JISOO, MOMOKA, KOHARU, YURI出演",
-      "url": "https://hana.b-rave.tokyo/media/radio/251227/",
-      "date": "2025.12.27",
-      "category": "RADIO",
-      "id": "https://hana.b-rave.tokyo/media/radio/251227/"
     }
   ],
-  "lastChecked": "2025-12-30T01:16:29.347Z"
+  "lastChecked": "2025-12-31T01:17:54.389Z"
 }
