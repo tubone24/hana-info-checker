@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "1月11日(日) 日本テレビ系「シューイチ」CHIKA, YURI, KOHARU出演",
+      "url": "https://hana.b-rave.tokyo/media/tv/260110/",
+      "date": "2026.01.10",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/260110/"
+    },
+    {
       "title": "TBS系「第67回輝く！日本レコード大賞」HANA最優秀新人賞受賞",
       "url": "https://hana.b-rave.tokyo/media/tv/251230/",
       "date": "2025.12.30",
@@ -62,14 +69,7 @@
       "date": "2025.12.23",
       "category": "MAGAZINE",
       "id": "https://hana.b-rave.tokyo/media/magazine/251223-2/"
-    },
-    {
-      "title": "「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026」出演",
-      "url": "https://hana.b-rave.tokyo/live/251223/",
-      "date": "2025.12.23",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/251223/"
     }
   ],
-  "lastChecked": "2026-01-10T01:16:11.614Z"
+  "lastChecked": "2026-01-11T01:25:11.570Z"
 }
