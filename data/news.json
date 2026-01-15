@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "HANA 1st TOUR 2026 “Born to Bloom” 詳細決定",
+      "url": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/",
+      "date": "2025.12.16",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
+    },
+    {
+      "title": "1月15日(木) TBS系「ラヴィット！」CHIKA, KOHARU出演",
+      "url": "https://hana.b-rave.tokyo/media/tv/260114/",
+      "date": "2026.01.14",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/260114/"
+    },
+    {
       "title": "1月11日(日) 日本テレビ系「シューイチ」CHIKA, YURI, KOHARU出演",
       "url": "https://hana.b-rave.tokyo/media/tv/260110/",
       "date": "2026.01.10",
@@ -62,14 +76,7 @@
       "date": "2025.12.25",
       "category": "MAGAZINE",
       "id": "https://hana.b-rave.tokyo/media/magazine/251225/"
-    },
-    {
-      "title": "12月22日(月)発売「JUNON 2月号」",
-      "url": "https://hana.b-rave.tokyo/media/magazine/251223-2/",
-      "date": "2025.12.23",
-      "category": "MAGAZINE",
-      "id": "https://hana.b-rave.tokyo/media/magazine/251223-2/"
     }
   ],
-  "lastChecked": "2026-01-14T01:21:11.087Z"
+  "lastChecked": "2026-01-15T01:16:32.563Z"
 }
