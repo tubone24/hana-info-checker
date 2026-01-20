@@ -8,6 +8,20 @@
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
     },
     {
+      "title": "2月3日(火)発売「MG NO.31」",
+      "url": "https://hana.b-rave.tokyo/media/magazine/260119-2/",
+      "date": "2026.01.19",
+      "category": "MAGAZINE",
+      "id": "https://hana.b-rave.tokyo/media/magazine/260119-2/"
+    },
+    {
+      "title": "2月19日(木)発売「CUT 3月号」",
+      "url": "https://hana.b-rave.tokyo/media/magazine/260119/",
+      "date": "2026.01.19",
+      "category": "MAGAZINE",
+      "id": "https://hana.b-rave.tokyo/media/magazine/260119/"
+    },
+    {
       "title": "1月24日(土)配信「Cold Night」iTunesプリオーダー受付スタート / キャンペーンも決定",
       "url": "https://hana.b-rave.tokyo/music/coldnight-preorder/",
       "date": "2026.01.18",
@@ -62,21 +76,7 @@
       "date": "2025.12.28",
       "category": "RADIO",
       "id": "https://hana.b-rave.tokyo/media/radio/251228-2/"
-    },
-    {
-      "title": "1月10日(土)TV アニメ「メダリスト」アイススケートリンクイベント in 東京ミッドタウン 登壇",
-      "url": "https://hana.b-rave.tokyo/news/251227-2/",
-      "date": "2025.12.27",
-      "category": "NEWS",
-      "id": "https://hana.b-rave.tokyo/news/251227-2/"
-    },
-    {
-      "title": "3月13日(金)「D.U.N.K. Showcase in K-Arena Yokohama 2026」出演",
-      "url": "https://hana.b-rave.tokyo/live/251228/",
-      "date": "2025.12.28",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/251228/"
     }
   ],
-  "lastChecked": "2026-01-19T01:22:47.500Z"
+  "lastChecked": "2026-01-20T01:18:07.115Z"
 }
