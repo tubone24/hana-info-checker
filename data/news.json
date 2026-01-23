@@ -8,6 +8,20 @@
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
     },
     {
+      "title": "1月23日(金)- ラジオ出演情報",
+      "url": "https://hana.b-rave.tokyo/media/radio/260122-2/",
+      "date": "2026.01.22",
+      "category": "RADIO",
+      "id": "https://hana.b-rave.tokyo/media/radio/260122-2/"
+    },
+    {
+      "title": "2月20日(金)発売「JUNON 4・5月合併号[臨増版]」",
+      "url": "https://hana.b-rave.tokyo/media/magazine/260122/",
+      "date": "2026.01.22",
+      "category": "MAGAZINE",
+      "id": "https://hana.b-rave.tokyo/media/magazine/260122/"
+    },
+    {
       "title": "2月3日(火)発売「MG NO.31」",
       "url": "https://hana.b-rave.tokyo/media/magazine/260119-2/",
       "date": "2026.01.19",
@@ -62,21 +76,7 @@
       "date": "2026.01.10",
       "category": "TV",
       "id": "https://hana.b-rave.tokyo/media/tv/260110/"
-    },
-    {
-      "title": "TBS系「第67回輝く！日本レコード大賞」HANA最優秀新人賞受賞",
-      "url": "https://hana.b-rave.tokyo/media/tv/251230/",
-      "date": "2025.12.30",
-      "category": "TV",
-      "id": "https://hana.b-rave.tokyo/media/tv/251230/"
-    },
-    {
-      "title": "1月4日(日) TOKYO FM「菊池風磨 hoursz」JISOO, MOMOKA, KOHARU, YURI出演",
-      "url": "https://hana.b-rave.tokyo/media/radio/251228-2/",
-      "date": "2025.12.28",
-      "category": "RADIO",
-      "id": "https://hana.b-rave.tokyo/media/radio/251228-2/"
     }
   ],
-  "lastChecked": "2026-01-22T01:20:43.573Z"
+  "lastChecked": "2026-01-23T01:18:53.203Z"
 }
