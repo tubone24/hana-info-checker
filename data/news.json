@@ -8,6 +8,20 @@
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
     },
     {
+      "title": "MTV 2026年3月度「ARTIST OF THE MONTH」HANA特別番組放送",
+      "url": "https://hana.b-rave.tokyo/media/tv/260302/",
+      "date": "2026.03.02",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/260302/"
+    },
+    {
+      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』リセール出品・購入のご案内",
+      "url": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale/",
+      "date": "2026.03.02",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale/"
+    },
+    {
       "title": "HANA 1st Album「HANA」リリース記念「HANA特集AWAラウンジ」開催決定",
       "url": "https://hana.b-rave.tokyo/music/260228/",
       "date": "2026.02.28",
@@ -62,21 +76,7 @@
       "date": "2026.02.20",
       "category": "TV",
       "id": "https://hana.b-rave.tokyo/media/tv/260220-3/"
-    },
-    {
-      "title": "NACK5「ALL The Feels」CHIKA, NAOKO出演",
-      "url": "https://hana.b-rave.tokyo/media/radio/260220-2/",
-      "date": "2026.02.20",
-      "category": "RADIO",
-      "id": "https://hana.b-rave.tokyo/media/radio/260220-2/"
-    },
-    {
-      "title": "クラシエ「いち髪」新TVCM「香りだけ残して、前へ。」篇 HANA 出演",
-      "url": "https://hana.b-rave.tokyo/media/cm/260220/",
-      "date": "2026.02.20",
-      "category": "CM",
-      "id": "https://hana.b-rave.tokyo/media/cm/260220/"
     }
   ],
-  "lastChecked": "2026-03-02T01:44:34.372Z"
+  "lastChecked": "2026-03-03T01:46:43.912Z"
 }
