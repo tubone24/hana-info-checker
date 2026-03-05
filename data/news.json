@@ -8,6 +8,20 @@
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
     },
     {
+      "title": "3月25日(水)フジテレビ系「週刊ナイナイミュージック」放送",
+      "url": "https://hana.b-rave.tokyo/media/tv/260304/",
+      "date": "2026.03.04",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/260304/"
+    },
+    {
+      "title": "3月18日(水) テレビ朝日系「EIGHT-JAM」出演",
+      "url": "https://hana.b-rave.tokyo/media/tv/260304-2/",
+      "date": "2026.03.04",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/260304-2/"
+    },
+    {
       "title": "HANA 1st Album「HANA」リリース記念「スペシャル生配信＠LINE MUSIC」開催決定",
       "url": "https://hana.b-rave.tokyo/music/260303/",
       "date": "2026.03.03",
@@ -62,21 +76,7 @@
       "date": "2026.02.21",
       "category": "TV",
       "id": "https://hana.b-rave.tokyo/media/tv/260221-3/"
-    },
-    {
-      "title": "2月23日(月・祝)9:00- TBSラジオ「パンサー向井の#ふらっと」",
-      "url": "https://hana.b-rave.tokyo/media/radio/260221-2/",
-      "date": "2026.02.21",
-      "category": "RADIO",
-      "id": "https://hana.b-rave.tokyo/media/radio/260221-2/"
-    },
-    {
-      "title": "HANA 1st Album「HANA」発売記念CDショップキャンペーン決定",
-      "url": "https://hana.b-rave.tokyo/music/260221/",
-      "date": "2026.02.21",
-      "category": "MUSIC",
-      "id": "https://hana.b-rave.tokyo/music/260221/"
     }
   ],
-  "lastChecked": "2026-03-04T01:29:30.546Z"
+  "lastChecked": "2026-03-05T01:43:51.380Z"
 }
