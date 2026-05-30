@@ -8,6 +8,20 @@
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
     },
     {
+      "title": "6月13日(土) NHK系「MUSIC AWARDS JAPAN 2026」",
+      "url": "https://hana.b-rave.tokyo/media/tv/260529-2/",
+      "date": "2026.05.29",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/260529-2/"
+    },
+    {
+      "title": "6月6日(土) 「YouTube Music Weekend: MUSIC AWARDS JAPAN 2026 Edition」",
+      "url": "https://hana.b-rave.tokyo/news/260529/",
+      "date": "2026.05.29",
+      "category": "NEWS",
+      "id": "https://hana.b-rave.tokyo/news/260529/"
+    },
+    {
       "title": "6月4日(木) NHK系「世界に響くJ-POP2026 ～MUSIC AWARDS JAPAN＆Zipanguスペシャル～」VTR出演",
       "url": "https://hana.b-rave.tokyo/media/tv/260527/",
       "date": "2026.05.27",
@@ -62,21 +76,7 @@
       "date": "2026.04.18",
       "category": "TV",
       "id": "https://hana.b-rave.tokyo/media/tv/260418/"
-    },
-    {
-      "title": "4月23日(木)発売「SPUR 6月号」",
-      "url": "https://hana.b-rave.tokyo/media/magazine/260417-2/",
-      "date": "2026.04.17",
-      "category": "MAGAZINE",
-      "id": "https://hana.b-rave.tokyo/media/magazine/260417-2/"
-    },
-    {
-      "title": "「SUMMER SONIC 2026」8月15日(土)TOKYO、8月16日(日)OSAKA 出演",
-      "url": "https://hana.b-rave.tokyo/live/260417/",
-      "date": "2026.04.17",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/260417/"
     }
   ],
-  "lastChecked": "2026-05-29T02:43:46.030Z"
+  "lastChecked": "2026-05-30T02:37:39.939Z"
 }
