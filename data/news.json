@@ -8,6 +8,20 @@
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom/"
     },
     {
+      "title": "10月10日(土), 11日(日), 12日(月・祝)「BMSG FES’26」出演",
+      "url": "https://hana.b-rave.tokyo/live/260630-2/",
+      "date": "2026.06.30",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/260630-2/"
+    },
+    {
+      "title": "7月1日(水)- 「\"ZIPANGU\" JAPANESE MUSIC EVENT 2026」配信",
+      "url": "https://hana.b-rave.tokyo/news/260630/",
+      "date": "2026.06.30",
+      "category": "NEWS",
+      "id": "https://hana.b-rave.tokyo/news/260630/"
+    },
+    {
       "title": "8月2日(日)「Incheon Pentaport Rock Festival 2026」出演（JP/EN/KR）",
       "url": "https://hana.b-rave.tokyo/live/260629/",
       "date": "2026.06.29",
@@ -62,21 +76,7 @@
       "date": "2026.06.07",
       "category": "TV",
       "id": "https://hana.b-rave.tokyo/media/tv/260607/"
-    },
-    {
-      "title": "7月1日(水) フジテレビ系「2026 FNS歌謡祭 夏」出演",
-      "url": "https://hana.b-rave.tokyo/media/tv/260603-2/",
-      "date": "2026.06.03",
-      "category": "TV",
-      "id": "https://hana.b-rave.tokyo/media/tv/260603-2/"
-    },
-    {
-      "title": "9月20日(日)「ROCK IN JAPAN FESTIVAL 2026」出演",
-      "url": "https://hana.b-rave.tokyo/live/260603/",
-      "date": "2026.06.03",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/260603/"
     }
   ],
-  "lastChecked": "2026-06-30T02:49:23.018Z"
+  "lastChecked": "2026-07-01T02:55:00.443Z"
 }
