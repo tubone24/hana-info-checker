@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "『HANA 1st TOUR 2026 “Born to Bloom” 』追加公演 HANA Official Fan Club会員、B-Town〈Architect / Resident〉会員限定、機材開放席販売(先着)",
+      "url": "https://hana.b-rave.tokyo/live/260915/",
+      "date": "2026.09.15",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/260915/"
+    },
+    {
       "title": "『HANA 1st TOUR 2026 “Born to Bloom”』 追加公演 リセール出品・購入のご案内",
       "url": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/",
       "date": "2026.09.11",
@@ -62,14 +69,7 @@
       "date": "2026.09.02",
       "category": "MUSIC",
       "id": "https://hana.b-rave.tokyo/music/mismatch-digitalrelease/"
-    },
-    {
-      "title": "「ASIA POP GIRL FEST 2027」開催決定",
-      "url": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027/",
-      "date": "2026.08.28",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027/"
     }
   ],
-  "lastChecked": "2026-09-15T02:59:16.718Z"
+  "lastChecked": "2026-09-16T02:55:32.477Z"
 }
