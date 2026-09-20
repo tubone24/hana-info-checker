@@ -8,13 +8,6 @@
       "id": "https://hana.b-rave.tokyo/live/260915/"
     },
     {
-      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』 追加公演 リセール出品・購入のご案内",
-      "url": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/",
-      "date": "2026.09.11",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/"
-    },
-    {
       "title": "9月13日(日) SBS系「INKIGAYO」LEE JISOO出演",
       "url": "https://hana.b-rave.tokyo/media/tv/260911/",
       "date": "2026.09.11",
@@ -34,6 +27,13 @@
       "date": "2026.09.10",
       "category": "CM",
       "id": "https://hana.b-rave.tokyo/media/cm/260910/"
+    },
+    {
+      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』 追加公演 リセール出品・購入のご案内",
+      "url": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/",
+      "date": "2026.09.11",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/"
     },
     {
       "title": "『HANA 1st TOUR 2026 “Born to Bloom”』TOUR FINAL武道館公演ライブビューイング決定",
@@ -71,5 +71,5 @@
       "id": "https://hana.b-rave.tokyo/music/mismatch-digitalrelease/"
     }
   ],
-  "lastChecked": "2026-09-19T02:44:50.217Z"
+  "lastChecked": "2026-09-20T02:57:09.220Z"
 }
