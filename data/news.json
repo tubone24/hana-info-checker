@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "11月15日(日)「2026 FIREBALL Fest. 火球祭」出演（JP/TW）",
+      "url": "https://hana.b-rave.tokyo/live/260923/",
+      "date": "2026.09.23",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/260923/"
+    },
+    {
       "title": "『HANA 1st TOUR 2026 “Born to Bloom” 』追加公演 HANA Official Fan Club会員、B-Town〈Architect / Resident〉会員限定、機材開放席販売(先着)",
       "url": "https://hana.b-rave.tokyo/live/260915/",
       "date": "2026.09.15",
@@ -62,14 +69,7 @@
       "date": "2026.09.04",
       "category": "CM",
       "id": "https://hana.b-rave.tokyo/media/cm/260904/"
-    },
-    {
-      "title": "9月8日(火) LEE JISOO「MISMATCH」デジタルリリース決定",
-      "url": "https://hana.b-rave.tokyo/music/mismatch-digitalrelease/",
-      "date": "2026.09.02",
-      "category": "MUSIC",
-      "id": "https://hana.b-rave.tokyo/music/mismatch-digitalrelease/"
     }
   ],
-  "lastChecked": "2026-09-23T02:55:29.425Z"
+  "lastChecked": "2026-09-24T02:45:19.390Z"
 }
