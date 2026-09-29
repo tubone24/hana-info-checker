@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "マクドナルド「三角チョコパイ」新TVCM MOMOKA出演",
+      "url": "https://hana.b-rave.tokyo/media/cm/260929/",
+      "date": "2026.09.29",
+      "category": "CM",
+      "id": "https://hana.b-rave.tokyo/media/cm/260929/"
+    },
+    {
       "title": "「1CHANCE FESTIVAL 2026」会場グッズ販売のお知らせ",
       "url": "https://hana.b-rave.tokyo/goods/260925/",
       "date": "2026.09.25",
@@ -62,14 +69,7 @@
       "date": "2026.09.05",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/amazonprimevideo-livestreaming/"
-    },
-    {
-      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』大阪城ホール公演 会場グッズ販売事前整理券配布のお知らせ",
-      "url": "https://hana.b-rave.tokyo/goods/260904-2/",
-      "date": "2026.09.04",
-      "category": "GOODS",
-      "id": "https://hana.b-rave.tokyo/goods/260904-2/"
     }
   ],
-  "lastChecked": "2026-09-28T03:08:18.419Z"
+  "lastChecked": "2026-09-29T03:47:04.497Z"
 }
