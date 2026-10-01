@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "マクドナルド「青いマックの日」特別サポーターに就任",
+      "url": "https://hana.b-rave.tokyo/news/260930/",
+      "date": "2026.09.30",
+      "category": "NEWS",
+      "id": "https://hana.b-rave.tokyo/news/260930/"
+    },
+    {
       "title": "マクドナルド「三角チョコパイ」新TVCM MOMOKA出演",
       "url": "https://hana.b-rave.tokyo/media/cm/260929/",
       "date": "2026.09.29",
@@ -62,14 +69,7 @@
       "date": "2026.09.05",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/borntobloom-liveviewing/"
-    },
-    {
-      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』Amazon Prime Videoにてライブ配信決定",
-      "url": "https://hana.b-rave.tokyo/live/amazonprimevideo-livestreaming/",
-      "date": "2026.09.05",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/amazonprimevideo-livestreaming/"
     }
   ],
-  "lastChecked": "2026-09-30T03:35:19.890Z"
+  "lastChecked": "2026-10-01T03:40:25.223Z"
 }
