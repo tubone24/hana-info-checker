@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "10月10日(土)発売「HIGHSNOBIETY JAPAN ISSUE17+ CHIKA」",
+      "url": "https://hana.b-rave.tokyo/media/magazine/261001/",
+      "date": "2026.10.01",
+      "category": "MAGAZINE",
+      "id": "https://hana.b-rave.tokyo/media/magazine/261001/"
+    },
+    {
       "title": "マクドナルド「青いマックの日」特別サポーターに就任",
       "url": "https://hana.b-rave.tokyo/news/260930/",
       "date": "2026.09.30",
@@ -62,14 +69,7 @@
       "date": "2026.09.11",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/"
-    },
-    {
-      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』TOUR FINAL武道館公演ライブビューイング決定",
-      "url": "https://hana.b-rave.tokyo/live/borntobloom-liveviewing/",
-      "date": "2026.09.05",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/borntobloom-liveviewing/"
     }
   ],
-  "lastChecked": "2026-10-01T03:40:25.223Z"
+  "lastChecked": "2026-10-02T03:40:07.812Z"
 }
