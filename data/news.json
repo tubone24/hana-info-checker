@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "『ASIA POP GIRL FEST 2027』日本公演 HANA Official Fan Club / B-Town＜Architect＞会員先行スタート",
+      "url": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/",
+      "date": "2026.10.07",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/"
+    },
+    {
       "title": "10月10日(土)発売「HIGHSNOBIETY JAPAN ISSUE17+ CHIKA」",
       "url": "https://hana.b-rave.tokyo/media/magazine/261001/",
       "date": "2026.10.01",
@@ -62,14 +69,7 @@
       "date": "2026.09.10",
       "category": "CM",
       "id": "https://hana.b-rave.tokyo/media/cm/260910/"
-    },
-    {
-      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』 追加公演 リセール出品・購入のご案内",
-      "url": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/",
-      "date": "2026.09.11",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/hana1sttour2026-borntobloom-resale-2/"
     }
   ],
-  "lastChecked": "2026-10-07T03:51:00.630Z"
+  "lastChecked": "2026-10-08T04:04:33.719Z"
 }
