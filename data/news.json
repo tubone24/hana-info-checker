@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "11月14日(土)「The 18th Melon Music Awards, MMA2026」出演（JP/EN/KR）",
+      "url": "https://hana.b-rave.tokyo/live/mma2026/",
+      "date": "2026.10.14",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/mma2026/"
+    },
+    {
       "title": "『ASIA POP GIRL FEST 2027』日本公演 HANA Official Fan Club / B-Town＜Architect＞会員先行スタート",
       "url": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/",
       "date": "2026.10.07",
@@ -62,14 +69,7 @@
       "date": "2026.09.10",
       "category": "MAGAZINE",
       "id": "https://hana.b-rave.tokyo/media/magazine/260910-2/"
-    },
-    {
-      "title": "マクドナルド「マックフルーリー明治アーモンドチョコレート」新TVCM KOHARU出演",
-      "url": "https://hana.b-rave.tokyo/media/cm/260910/",
-      "date": "2026.09.10",
-      "category": "CM",
-      "id": "https://hana.b-rave.tokyo/media/cm/260910/"
     }
   ],
-  "lastChecked": "2026-10-14T03:10:20.277Z"
+  "lastChecked": "2026-10-15T02:49:17.309Z"
 }
