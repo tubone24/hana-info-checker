@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "『HANA 1st TOUR 2026 “Born to Bloom”』武道館公演 会場グッズ販売のお知らせ",
+      "url": "https://hana.b-rave.tokyo/goods/261021/",
+      "date": "2026.10.21",
+      "category": "GOODS",
+      "id": "https://hana.b-rave.tokyo/goods/261021/"
+    },
+    {
       "title": "11月14日(土)「The 18th Melon Music Awards, MMA2026」出演（JP/EN/KR）",
       "url": "https://hana.b-rave.tokyo/live/mma2026/",
       "date": "2026.10.14",
@@ -62,14 +69,7 @@
       "date": "2026.09.11",
       "category": "TV",
       "id": "https://hana.b-rave.tokyo/media/tv/260911/"
-    },
-    {
-      "title": "9月28日(月)発売「AERA 10月5日号」",
-      "url": "https://hana.b-rave.tokyo/media/magazine/260910-2/",
-      "date": "2026.09.10",
-      "category": "MAGAZINE",
-      "id": "https://hana.b-rave.tokyo/media/magazine/260910-2/"
     }
   ],
-  "lastChecked": "2026-10-21T02:57:19.830Z"
+  "lastChecked": "2026-10-22T03:03:10.160Z"
 }
