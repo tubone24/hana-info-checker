@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "ANA「私らしいって、楽しいぞ。」新プロモーション動画 HANA 出演",
+      "url": "https://hana.b-rave.tokyo/media/cm/261022/",
+      "date": "2026.10.22",
+      "category": "CM",
+      "id": "https://hana.b-rave.tokyo/media/cm/261022/"
+    },
+    {
       "title": "『HANA 1st TOUR 2026 “Born to Bloom”』武道館公演 会場グッズ販売のお知らせ",
       "url": "https://hana.b-rave.tokyo/goods/261021/",
       "date": "2026.10.21",
@@ -62,14 +69,7 @@
       "date": "2026.09.15",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/260915/"
-    },
-    {
-      "title": "9月13日(日) SBS系「INKIGAYO」LEE JISOO出演",
-      "url": "https://hana.b-rave.tokyo/media/tv/260911/",
-      "date": "2026.09.11",
-      "category": "TV",
-      "id": "https://hana.b-rave.tokyo/media/tv/260911/"
     }
   ],
-  "lastChecked": "2026-10-22T03:03:10.160Z"
+  "lastChecked": "2026-10-23T03:03:46.749Z"
 }
