@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "マクドナルド「三角チョコパイ」新TVCM HANA出演",
+      "url": "https://hana.b-rave.tokyo/media/cm/261028-2/",
+      "date": "2026.10.28",
+      "category": "CM",
+      "id": "https://hana.b-rave.tokyo/media/cm/261028-2/"
+    },
+    {
+      "title": "10月29日(木)「Slidin」デジタルリリース決定",
+      "url": "https://hana.b-rave.tokyo/music/slidin-digitalrelease/",
+      "date": "2026.10.27",
+      "category": "MUSIC",
+      "id": "https://hana.b-rave.tokyo/music/slidin-digitalrelease/"
+    },
+    {
       "title": "『HANA 1st TOUR 2026 “Born to Bloom” 』TOUR FINAL武道館公演  ライブビューイング実施劇場にて公式グッズの販売が決定！",
       "url": "https://hana.b-rave.tokyo/goods/261026/",
       "date": "2026.10.26",
@@ -55,21 +69,7 @@
       "date": "2026.09.29",
       "category": "CM",
       "id": "https://hana.b-rave.tokyo/media/cm/260929/"
-    },
-    {
-      "title": "「1CHANCE FESTIVAL 2026」会場グッズ販売のお知らせ",
-      "url": "https://hana.b-rave.tokyo/goods/260925/",
-      "date": "2026.09.25",
-      "category": "GOODS",
-      "id": "https://hana.b-rave.tokyo/goods/260925/"
-    },
-    {
-      "title": "11月15日(日)「2026 FIREBALL Fest. 火球祭」出演（JP/TW）",
-      "url": "https://hana.b-rave.tokyo/live/260923/",
-      "date": "2026.09.23",
-      "category": "LIVE",
-      "id": "https://hana.b-rave.tokyo/live/260923/"
     }
   ],
-  "lastChecked": "2026-10-27T03:21:18.772Z"
+  "lastChecked": "2026-10-28T03:37:01.225Z"
 }
