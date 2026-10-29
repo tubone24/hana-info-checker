@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "11月11日(水) 読売テレビ系「ベストヒット歌謡祭2026」出演",
+      "url": "https://hana.b-rave.tokyo/media/tv/261028/",
+      "date": "2026.10.28",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/261028/"
+    },
+    {
       "title": "マクドナルド「三角チョコパイ」新TVCM HANA出演",
       "url": "https://hana.b-rave.tokyo/media/cm/261028-2/",
       "date": "2026.10.28",
@@ -62,14 +69,7 @@
       "date": "2026.09.30",
       "category": "NEWS",
       "id": "https://hana.b-rave.tokyo/news/260930/"
-    },
-    {
-      "title": "マクドナルド「三角チョコパイ」新TVCM MOMOKA出演",
-      "url": "https://hana.b-rave.tokyo/media/cm/260929/",
-      "date": "2026.09.29",
-      "category": "CM",
-      "id": "https://hana.b-rave.tokyo/media/cm/260929/"
     }
   ],
-  "lastChecked": "2026-10-28T03:37:01.225Z"
+  "lastChecked": "2026-10-29T03:57:37.426Z"
 }
