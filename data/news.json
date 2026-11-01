@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "『HANA Arena Tour 2027 “Born to Bloom Ⅱ”』開催決定",
+      "url": "https://hana.b-rave.tokyo/live/hanaarenatour2027-borntobloom2/",
+      "date": "2026.10.31",
+      "category": "LIVE",
+      "id": "https://hana.b-rave.tokyo/live/hanaarenatour2027-borntobloom2/"
+    },
+    {
       "title": "11月11日(水) 読売テレビ系「ベストヒット歌謡祭2026」出演",
       "url": "https://hana.b-rave.tokyo/media/tv/261028/",
       "date": "2026.10.28",
@@ -50,7 +57,7 @@
       "id": "https://hana.b-rave.tokyo/live/mma2026/"
     },
     {
-      "title": "『ASIA POP GIRL FEST 2027』日本公演 B-Town〈Resident〉会員先行スタート",
+      "title": "『ASIA POP GIRL FEST 2027』日本公演チケット詳細",
       "url": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/",
       "date": "2026.10.07",
       "category": "LIVE",
@@ -62,14 +69,7 @@
       "date": "2026.10.01",
       "category": "MAGAZINE",
       "id": "https://hana.b-rave.tokyo/media/magazine/261001/"
-    },
-    {
-      "title": "マクドナルド「青いマックの日」特別サポーターに就任",
-      "url": "https://hana.b-rave.tokyo/news/260930/",
-      "date": "2026.09.30",
-      "category": "NEWS",
-      "id": "https://hana.b-rave.tokyo/news/260930/"
     }
   ],
-  "lastChecked": "2026-10-31T03:43:54.036Z"
+  "lastChecked": "2026-11-01T03:52:19.960Z"
 }
