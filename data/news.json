@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "12月2日(水) フジテレビ系「2026 FNS歌謡祭」出演",
+      "url": "https://hana.b-rave.tokyo/media/tv/261103/",
+      "date": "2026.11.03",
+      "category": "TV",
+      "id": "https://hana.b-rave.tokyo/media/tv/261103/"
+    },
+    {
       "title": "『HANA Arena Tour 2027 “Born to Bloom Ⅱ”』開催決定",
       "url": "https://hana.b-rave.tokyo/live/hanaarenatour2027-borntobloom2/",
       "date": "2026.10.31",
@@ -62,14 +69,7 @@
       "date": "2026.10.07",
       "category": "LIVE",
       "id": "https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/"
-    },
-    {
-      "title": "10月10日(土)発売「HIGHSNOBIETY JAPAN ISSUE17+ CHIKA」",
-      "url": "https://hana.b-rave.tokyo/media/magazine/261001/",
-      "date": "2026.10.01",
-      "category": "MAGAZINE",
-      "id": "https://hana.b-rave.tokyo/media/magazine/261001/"
     }
   ],
-  "lastChecked": "2026-11-02T03:56:14.957Z"
+  "lastChecked": "2026-11-03T04:58:04.888Z"
 }
